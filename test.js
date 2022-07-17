@@ -12,3 +12,5 @@ console.log(add(a, b))
 console.log(2)
 
 console.log("update master")
+
+console.log("from dev")
