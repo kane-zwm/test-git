@@ -6,3 +6,6 @@ function add (x, y){
 }
 
 console.log(1)
+
+console.log(add(a, b))
+
