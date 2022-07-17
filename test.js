@@ -14,3 +14,5 @@ console.log(2)
 console.log("update master")
 
 console.log("from dev")
+
+console.log("second")
