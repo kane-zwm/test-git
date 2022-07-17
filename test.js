@@ -9,3 +9,5 @@ console.log(1)
 
 console.log(add(a, b))
 
+console.log(2)
+
